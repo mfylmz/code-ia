@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "MonaLisa-Regular";
+  src: url("./assets/fonts/MonoLisa-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MonaLisa-Bold";
+  src: url("./assets/fonts/MonoLisa-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "MonaLisa-Thin";
+  src: url("./assets/fonts/MonoLisa-Thin.ttf") format("truetype");
+}
+
+html,
+body {
+  font-family: "MonaLisa-Regular", sans-serif;
+  margin: 0; 
+  padding: 0; 
+  height: 100%; 
+}
+
+#root {
+  height: 100%; 
+}
