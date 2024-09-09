@@ -19,7 +19,7 @@ Welcome to the **Code-IA**! This platform is designed to help programmers of all
   
 ### 🌟 Planned Features for Future Releases
 
-We are actively working to enhance the platform with the following features:
+I actively working to enhance the platform with the following features:
 
 1. **🔒 User Authentication**:  
    A user authentication system will be implemented to enable users to create accounts, log in, and track their progress over time.
